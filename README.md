@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT,REDUX**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-dusky-44.vercel.app/]https://mohd-javed.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://mohd-javed.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@mohdjaved_40270](https://medium.com/@mohdjaved_40270)
 
