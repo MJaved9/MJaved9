@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **REACT,REDUX**
 
-- 👨‍💻 All of my projects are available at (https://mohd-javed.netlify.app/)
+- 👨‍💻 All of my projects are available at[Netlify](https://mohd-javed.netlify.app)
 
 - 📝 I regularly write articles on [Blog](https://medium.com/@mohdjaved_40270)
 
 - 💬 Ask me about **MEARN**
 
-- 📫 How to reach me **javed233638@gmail.com**
+- 📫 How to reach me [Email](**javed233638@gmail.com**)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qaxjBZiKiM-5mXQFuICUgmFcxn7TnwE5/view?usp=sharing](https://drive.google.com/file/d/1qaxjBZiKiM-5mXQFuICUgmFcxn7TnwE5/view?usp=sharing)
+- 📄 Know about my experiences [Resme](https://drive.google.com/file/d/1qaxjBZiKiM-5mXQFuICUgmFcxn7TnwE5/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
