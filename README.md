@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [Email](**javed233638@gmail.com**)
 
-- 📄 Know about my experiences [Resme](https://drive.google.com/file/d/1qaxjBZiKiM-5mXQFuICUgmFcxn7TnwE5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qaxjBZiKiM-5mXQFuICUgmFcxn7TnwE5/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
